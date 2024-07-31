@@ -1,0 +1,1 @@
+sceneflow/FlyingThings/FlyingThings3D_subset/train/image_clean/left/0000000.png sceneflow/FlyingThings/FlyingThings3D_subset/train/image_clean/right/0000000.png sceneflow/FlyingThings/FlyingThings3D_subset/train/disparity/left/0000000.pfm

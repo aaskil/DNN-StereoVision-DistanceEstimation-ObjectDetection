@@ -1,0 +1,14 @@
+# .gitignore file
+
+*.DS_Store
+*.pyc
+*.pyc
+*.local
+*.ckpt
+*.pth
+*.pt
+
+visualiseringer/dataset_1/
+visualiseringer/dataset_2/
+visualiseringer/dataset_3/
+

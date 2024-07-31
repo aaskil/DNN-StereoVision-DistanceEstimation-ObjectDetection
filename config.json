@@ -1,0 +1,14 @@
+{
+    "BASE_DIR"                  : "",
+    "BASE_DIR_WIN"              : "",
+
+    "BASE_DIR_CGI_CKPT_MAC"     : "",
+    "BASE_DIR_CGI_CKPT_WIN"     : "",
+
+    "BASE_DIR_VIS"              : "",
+    
+    "BASE_DIR_SEG_MAC"          : "",
+    "BASE_DIR_SEG_WIN"          : "",
+
+    "Place_Holder"              : ""
+}
