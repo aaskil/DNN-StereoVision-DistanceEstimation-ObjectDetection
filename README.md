@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 
 # Project description 
-
+This project explores the application of stereo vision combined with deep neural networks for depth estimation and instance segmentation in industrial bin picking. Conducted in collaboration with SCAPE Technologies, it involves creating a dataset of stereo image pairs and corresponding depth information obtained from a 3D scanner. We employed state-of-the-art models, such as CGI-stereo and YOLO versions 8 and 9, to develop a system capable of accurate distance estimation and object detection with segmentation. Results from our proof-of-concept study demonstrate that stereo vision systems enhanced by deep learning can achieve comparable accuracy and processing speed to LiDAR systems. While our findings confirm the robustness and efficiency of stereo vision systems, they also highlight distinct strengths and weaknesses compared to traditional methods. This research suggests a potential shift towards using deep neural networks to address current limitations in industrial bin picking.
 
 
 
