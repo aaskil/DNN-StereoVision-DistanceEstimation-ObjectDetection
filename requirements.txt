@@ -1,0 +1,11 @@
+MultiCast
+Capture
+opencv-python
+matplotlib
+numpy
+pandas
+open3d
+scikit-learn
+Pillow
+torchvision
+ultralytics
